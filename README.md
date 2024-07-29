@@ -33,3 +33,8 @@ Got it! Here's the revised description considering the context of `flag.png` den
     This text file lists all the Python packages and their specific versions required to run the web application and execute the machine learning model successfully. It ensures that anyone setting up the environment can install the necessary dependencies easily using `pip`.
 
 These files collectively form the foundation of a Flask-based web application that integrates HTML interfaces (`index.html`, `predict.html`) with a machine learning model (`model.pkl`) and its preprocessing steps (`preprocessor.pkl`). The `flag.png` file dynamically reflects churn probability, aiding in user decision-making based on model predictions.
+## Languages Used
+
+- ![HTML, CSS & JavaScript](https://progress-bar.dev/30/?title=HTML%2C%20CSS%20%26%20JavaScript)
+- ![Python](https://progress-bar.dev/50/?title=Python)
+- ![Flask](https://progress-bar.dev/20/?title=Flask)
