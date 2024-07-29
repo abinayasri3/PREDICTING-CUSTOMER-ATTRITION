@@ -35,6 +35,6 @@ Got it! Here's the revised description considering the context of `flag.png` den
 These files collectively form the foundation of a Flask-based web application that integrates HTML interfaces (`index.html`, `predict.html`) with a machine learning model (`model.pkl`) and its preprocessing steps (`preprocessor.pkl`). The `flag.png` file dynamically reflects churn probability, aiding in user decision-making based on model predictions.
 ## Languages Used
 
--  ![HTML,CSS,JAVASCRIPT](https://progress-bar.dev/50/?title=html,css,js)
+-  ![HTML,CSS,JAVASCRIPT](https://progress-bar.dev/30/?title=html,css,js)
 - ![Python](https://progress-bar.dev/50/?title=Python)
 - ![Flask](https://progress-bar.dev/20/?title=Flask)
